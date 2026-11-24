@@ -1,0 +1,14 @@
+[
+  {
+    "modid": "accountmanager",
+    "name": "Account Manager",
+    "description": "Switch between Microsoft, offline and Altening accounts, and change your skin, cape and name in game.",
+    "version": "${version}",
+    "mcversion": "${mcversion}",
+    "url": "",
+    "updateUrl": "",
+    "authorList": ["Donkay"],
+    "screenshots": [],
+    "dependencies": []
+  }
+]
